@@ -35,6 +35,10 @@
 
 <img width="216" alt="Gear Up Structure" src="https://github.com/user-attachments/assets/e56fb410-7bdc-4865-b096-eff103dd1fb5" />
 
+##⚠️ API Limitation
+
+- The free version of the Car API used in this project currently only returns one item per request. Due to this limitation, the website is currently restricted to displaying a single car at a time.
+
 ## 📦 Installation & Setup
 
 To set up the project locally, follow these steps:
