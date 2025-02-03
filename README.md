@@ -1,12 +1,14 @@
-# GearUp 🚀
+# Gear Up 🚀
 
-**GearUp** is a modern online application built with **Next.js, TypeScript, Tailwind CSS, and React**. This project delivers a seamless and responsive user experience, leveraging the power of server-side rendering (SSR) and static site generation (SSG) for optimal performance.
+**Gear Up** is a modern online application built with **Next.js, TypeScript, Tailwind CSS, and React**. This project delivers a seamless and responsive user experience, leveraging the power of server-side rendering (SSR) and static site generation (SSG) for optimal performance.
 
 ![Gear Up](https://github.com/user-attachments/assets/06dc7200-89a2-4349-b774-3f31513f40cc)
 
+
 ## 📂 Live Demo
 
-🔗 **Try GearUp Online:** [GearUp Live](https://gear-up-vxk4.vercel.app)
+
+🔗 **Try Gear Up Online:** [Live Website](https://gear-up-vxk4.vercel.app)
 
 
 ## 🌟 Features
@@ -31,13 +33,16 @@
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
 - **Deployment:** Vercel
 
+
 ## 📂 Project Structure
 
 <img width="216" alt="Gear Up Structure" src="https://github.com/user-attachments/assets/e56fb410-7bdc-4865-b096-eff103dd1fb5" />
 
+
 ## ⚠️ API Limitation
 
-- The free version of the Car API used in this project currently only returns one item per request. Due to this limitation, the website is currently restricted to displaying a single car at a time.
+- The free version of the car API used in this project currently only returns one item per request. Due to this limitation, the website is currently restricted to displaying a single car at a time.
+
 
 ## 📦 Installation & Setup
 
@@ -53,3 +58,5 @@ npm install
 
 # Start the development server
 npm run dev
+```
+After running the commands, open http://localhost:3000 in your browser to see the application.
