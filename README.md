@@ -5,10 +5,7 @@
 ![Gear Up](https://github.com/user-attachments/assets/06dc7200-89a2-4349-b774-3f31513f40cc)
 
 
-## 📂 Live Demo
-
-
-🔗 **Try Gear Up Online:** [Live Website](https://gear-up-vxk4.vercel.app)
+## 🌍 **Live Website:** [Gear_Up](https://gear-up-vxk4.vercel.app)
 
 
 ## 🌟 Features
